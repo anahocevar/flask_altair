@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('index.html', this=None)
+    return render_template('index.html')
 
 
 @app.route('/plot')
