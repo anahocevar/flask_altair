@@ -1,1 +1,1 @@
-# flask_sql_altair
+# flask_altair
